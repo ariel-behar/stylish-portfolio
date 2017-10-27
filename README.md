@@ -1,9 +1,9 @@
 # stylish-portfolio
-A project I did to practice my photoshop skills by creating a mockup website and incorporating the design into an actual html(bootstrap based) website. 
+
 
 Project Description:
 
-Portfolio site for a fictional web and graphic design company. One pager with no actual functionalities and no other purpose apart from pure Photoshop practice and Bootstrap based recreation.
+A project I did to practice my Photoshop skills by creating a mockup website and incorporating the design into an actual html(bootstrap based) website. It is a fictional portfolio site for a fictional web design company. One pager with no actual functionalities and no other purpose apart from pure Photoshop practice and Bootstrap based recreation.
 
 My Role in the Project:
 
